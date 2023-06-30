@@ -1,0 +1,92 @@
+h1{
+    font-size: 20px;
+}
+.container-cart{
+    width: 86%;
+    margin: 170px auto;
+}
+.cart-tema{
+    display: flex;
+    justify-content: space-around;
+}
+img{
+    width: 34px;
+}
+.corzina{
+    display: flex;
+    justify-content: space-around;
+}
+.item-img{
+   display: flex;
+   justify-content: space-around;
+}
+.min-plus{
+    display: flex;
+    justify-content: space-around;  
+}
+.item{
+margin: 30px auto;
+gap: 110px;  
+}
+.item-img img{
+    width: 40px;
+    height: 40px;
+}
+.price{
+    margin-left: 30px;
+    font-size: 16.5px;
+}
+.min-plus{
+ gap: 30px;
+ margin-left: 40px;
+ margin-top: 6px;
+}
+.minus{
+  width: 27px;
+  height: 27px;
+  border: 1px solid black;
+  text-align: center;
+  border-radius: 50%;
+}
+.plus1{
+   border: 1px solid black;
+   width: 27px;
+   height: 27px;
+   text-align: center;
+   border-radius: 50%;
+}
+.clear{
+    min-width: 27px;
+    border: 1px solid black;
+    text-align: center;
+    height: 30px;
+    border-radius: 50%;
+}
+.clear-items{
+    display: flex;
+    justify-content: space-between;
+    gap: 6px;
+    cursor: pointer;
+}
+.clear-items img{
+    width: 20px;
+    height: 20px;
+}
+.corzina h1{
+    font-size: 18px;
+}
+.clear-items h1{
+    font-size: 18px;
+}
+.sum{
+    margin-top: 20px;
+    display:flex;
+    justify-content:space-around;
+}
+.title{
+    font-size: 16.5px;
+}
+.kartinka{
+    width: 40px;
+    height: 60px;
+}

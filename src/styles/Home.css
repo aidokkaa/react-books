@@ -1,0 +1,39 @@
+.container_home{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 45px;
+}
+.text{
+    color: black;
+    font-size: 22px;
+    margin-left: 30px;
+    margin-top: 50px;
+    font-weight: bold;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: flex-start;
+    gap: 15px;
+}
+.block{
+    width: 440px;
+    min-height: 100px;
+    position: absolute;
+    top: 100px;
+    left: 290px;
+    border-radius: 10px;
+    box-shadow: 2px 3px 3px 3px grey;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    padding: 40px;
+    gap: 10px;
+    z-index: 1;
+    background-color: white;
+
+}
+.books{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+

@@ -1,0 +1,22 @@
+.empty{
+    width: 300px;
+    height: 300px;
+    display:block;
+    margin: 0 auto;
+}
+.cart1{
+    text-align:center;
+    display:block;
+    font-weight:lighter;
+}
+.button{
+    width:156px;
+    padding:15px;
+    color:white;
+    background-color:black;
+    display:flex;
+    justify-content:center;
+    border-radius:18px;
+    margin:30px auto;
+    cursor:pointer
+}
